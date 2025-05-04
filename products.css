@@ -13,7 +13,7 @@
 	color: whitesmoke;
 	width: 100%;
 	min-height: 100vh;
-	background-image: url(hiro2.png);
+	background-image: hiro2.png;
 	text-align: center;
 	background-size: cover;
 	background-position: center;
@@ -25,7 +25,7 @@ section {
 	color: whitesmoke;
 	width: 100%;
 	min-height: 100vh;
-	background-image: url(cutie1.png);
+	background-image: cutie1.png;
 	text-align: center;
 	background-size: cover;
 	background-position: center;
