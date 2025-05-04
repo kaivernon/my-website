@@ -1,0 +1,60 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+
+::-webkit-scrollbar {
+	display: none;
+}
+
+.container {
+	color: whitesmoke;
+	width: 100%;
+	min-height: 100vh;
+	background-image: url(images/hiro2.png);
+	text-align: center;
+	background-size: cover;
+	background-position: center;
+	padding: 10px 10%;
+	overflow: hidden;
+
+}
+section {
+	color: whitesmoke;
+	width: 100%;
+	min-height: 100vh;
+	background-image: url(images/cutie1.png);
+	text-align: center;
+	background-size: cover;
+	background-position: center;
+	padding: 10px 10%;
+	overflow: hidden;
+}
+
+.logotest {
+	margin: 2% -2%;
+	margin-left: -1200px;
+	margin-top: -30px;
+	width: 200px;
+	text-align: center;
+}
+
+.section h1{
+	font-family: Georgia;
+	border: black;
+	border-color: darkseagreen;
+	margin-top: -135px;
+}
+
+.welcome {
+	text-align: right;
+	font-family: Poppins;
+	margin-top: 350px;
+	font-weight: bold;
+	margin-right: -70px;
+	color: #ffedc3;
+	font-weight: bold;
+}
+

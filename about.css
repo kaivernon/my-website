@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+
+.container {
+	width: 100%;
+	min-height: 100vh;
+	background-image: url(images/aboutus.png);
+	background-position: center;
+	background-size: cover;
+	padding: 10px 10%;
+	overflow: hidden;
+}
+
+.logotest{
+	margin: 2% -2%;
+	width: 200px;
+}
+
+.section h1{
+	margin: -4% 15%;
+	color: white;
+	ont-weight: bold;
+    text-shadow:
+    -1px -1px 0 green,  
+     1px -1px 0 green,
+    -1px  1px 0 green,
+     1px  1px 0 green;
+}
+
+.section h3{
+	margin: 9% -8%;
+	text-align: left;
+	color: white;
+    font-weight: bold;
+    text-shadow:
+    -1px -1px 0 green,  
+     1px -1px 0 green,
+    -1px  1px 0 green,
+     1px  1px 0 green;
+}
